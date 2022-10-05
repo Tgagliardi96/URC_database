@@ -1,0 +1,504 @@
+﻿Player,Position,Age,Weight,Height,Year,Team
+Cherif TRAORÉ,Prop,28,1.84,116,22.23,Benetton
+Federico ZANI,Prop,33,1.78,110,22.23,Benetton
+Filippo ALONGI,Prop,22,1.85,118,22.23,Benetton
+Gianmarco LUCCHESI,Prop,22,1.84,110,22.23,Benetton
+Ivan NEMER,Prop,24,1.8,116,22.23,Benetton
+Matteo DRUDI,Prop,22,1.83,108,22.23,Benetton
+Nahuel TETAZ CHAPARRO,Prop,32,1.9,115,22.23,Benetton
+Simone FERRARI,Prop,28,1.85,124,22.23,Benetton
+Tiziano PASQUALI,Prop,28,1.85,118,22.23,Benetton
+Corniel ELS,Hooker,28,1.83,109,22.23,Benetton
+Giacomo NICOTERA,Hooker,26,1.83,102,22.23,Benetton
+Thomas GALLO,Hooker,23,1.76,107,22.23,Benetton
+Alessandro IZEKOR,Lock,22,1.96,110,22.23,Benetton
+Carl WEGNER,Lock,31,2,117,22.23,Benetton
+Federico RUZZA,Lock,28,1.98,108,22.23,Benetton
+Niccolò CANNONE,Lock,24,1.97,120,22.23,Benetton
+Nicola PIANTELLA,Lock,21,1.98,100,22.23,Benetton
+Riccardo FAVRETTO,Lock,20,2,105,22.23,Benetton
+Scott SCRAFTON,Lock,29,2,120,22.23,Benetton
+Seb NEGRI,Lock,28,1.94,110,22.23,Benetton
+Braam STEYN,Back row,30,1.93,111,22.23,Benetton
+Giovanni PETTINELLI,Back row,26,1.93,108,22.23,Benetton
+Henry STOWERS,Back row,27,1.9,115,22.23,Benetton
+Lorenzo CANNONE,Back row,21,1.9,102,22.23,Benetton
+Manuel ZULIANI,Back row,22,1.88,108,22.23,Benetton
+Marco LAZZARONI,Back row,27,1.94,110,22.23,Benetton
+Michele LAMARO,Back row,24,1.88,103,22.23,Benetton
+Toa HALAFIHI,Back row,28,1.82,110,22.23,Benetton
+Alessandro GARBISI,Scrum-half,20,1.73,86,22.23,Benetton
+Dewaldt DUVENAGE,Scrum-half,34,1.73,82,22.23,Benetton
+Sam HIDALGO-CLYNE,Scrum-half,29,1.75,85,22.23,Benetton
+Leonardo MARIN,Fly-half,20,1.88,88,22.23,Benetton
+Tomás ALBORNOZ,Fly-half,25,1.77,82,22.23,Benetton
+Filippo DRAGO,Center,20,1.86,96,22.23,Benetton
+Ignacio BREX,Center,30,1.89,99,22.23,Benetton
+Joaquin RIERA,Center,28,1.82,90,22.23,Benetton
+Marco ZANON,Center,25,1.86,97,22.23,Benetton
+Tommaso MENONCELLO,Center,20,1.87,98,22.23,Benetton
+Iliesa TAVUYARA,Winger,32,1.89,105,22.23,Benetton
+Marcus WATSON,Winger,31,1.78,88,22.23,Benetton
+Mattia BELLINI,Winger,28,1.93,101,22.23,Benetton
+Onisi RATAVE,Winger,30,1.79,100,22.23,Benetton
+Edoardo PADOVANI,Fullback,29,1.91,95,22.23,Benetton
+Giacomo DA RE,Fullback,23,1.8,83,22.23,Benetton
+Ignacio MENDY,Fullback,22,1.87,90,22.23,Benetton
+Rhyno SMITH,Fullback,29,1.73,83,22.23,Benetton
+Brad Thyer,Prop,29,1.81,113,22.23,Cardiff
+Corey Domachowski,Prop,26,1.83,121,22.23,Cardiff
+Dillon Lewis,Prop,26,1.85,125,22.23,Cardiff
+Dmitri Arhip,Prop,33,1.83,120,22.23,Cardiff
+Keiron Assiratti,Prop,25,1.78,119,22.23,Cardiff
+Rhys Carré,Prop,24,1.91,132,22.23,Cardiff
+Will Davies-king,Prop,24,1.93,128,22.23,Cardiff
+Efan Daniel,Hooker,19,1.85,97,22.23,Cardiff
+Kirby Myhill,Hooker,30,1.83,108,22.23,Cardiff
+Kristian Dacey,Hooker,33,1.88,119,22.23,Cardiff
+Liam Belcher,Hooker,26,1.77,107,22.23,Cardiff
+James Ratti,Lock,24,1.96,120,22.23,Cardiff
+Joe Peard,Lock,20,2.01,125,22.23,Cardiff
+Lopeti Timani,Lock,32,1.93,125,22.23,Cardiff
+Matthew Screech,Lock,29,1.96,116,22.23,Cardiff
+Rory Thornton,Lock,27,2.01,119,22.23,Cardiff
+Seb Davies,Lock,26,2.03,119,22.23,Cardiff
+Ellis Jenkins,Back row,29,1.85,105,22.23,Cardiff
+James Botham,Back row,24,1.91,104,22.23,Cardiff
+Josh Navidi,Back row,31,1.85,105,22.23,Cardiff
+Josh Turnbull,Back row,34,1.95,117,22.23,Cardiff
+Olly Robinson,Back row,31,1.86,107,22.23,Cardiff
+Shane Lewis-hughes,Back row,25,1.96,115,22.23,Cardiff
+Teddy Williams,Back row,21,1.98,118,22.23,Cardiff
+Toby Faletau,Back row,31,1.88,111,22.23,Cardiff
+Tom Young,Back row,30,1.81,102,22.23,Cardiff
+Ellis Bevan,Scrum-half,22,1.8,92,22.23,Cardiff
+Jamie Hill,Scrum-half,23,1.78,80,22.23,Cardiff
+Lloyd Williams,Scrum-half,32,1.83,91,22.23,Cardiff
+Tomos Williams,Scrum-half,27,1.8,86,22.23,Cardiff
+Ben Thomas,Fly-half,23,1.83,93,22.23,Cardiff
+Jarrod Evans,Fly-half,26,1.8,87,22.23,Cardiff
+Rhys Priestland,Fly-half,35,1.88,95,22.23,Cardiff
+Harri Millard,Center,26,1.83,94,22.23,Cardiff
+Mason Grady,Center,20,1.96,110,22.23,Cardiff
+Max Llewellyn,Center,23,1.97,105,22.23,Cardiff
+Rey Lee-lo,Center,36,1.81,98,22.23,Cardiff
+Willis Halaholo,Center,32,1.8,105,22.23,Cardiff
+Jason Harries,Winger,33,1.93,107,22.23,Cardiff
+Josh Adams,Winger,27,1.84,96,22.23,Cardiff
+Owen Lane,Winger,24,1.85,100,22.23,Cardiff
+Aled Summerhill,Fullback,27,1.88,93,22.23,Cardiff
+Liam Williams,Fullback,31,1.88,87,22.23,Cardiff
+Matthew Morgan,Fullback,30,1.73,78,22.23,Cardiff
+Denis Buckley,prop,32,1.77,110,22.23,Connacht
+Dominic Robertson-mccoy,prop,28,1.88,122,22.23,Connacht
+Finlay Bealham,prop,31,1.85,123,22.23,Connacht
+Jack Aungier,prop,23,1.88,120,22.23,Connacht
+Jordan Duggan,prop,24,1.85,114,22.23,Connacht
+Matthew Burke,prop,25,1.79,113,22.23,Connacht
+Peter Dooley,prop,28,1.83,116,22.23,Connacht
+Sam Illo,prop,21,1.85,118,22.23,Connacht
+Dave Heffernan,hooker,31,1.87,111,22.23,Connacht
+Dylan Tierney-martin,hooker,23,1.82,101,22.23,Connacht
+Grant Stewart,hooker,27,1.82,110,22.23,Connacht
+Shane Delahunt,hooker,28,1.88,112,22.23,Connacht
+Darragh Murray,lock,21,2.01,115,22.23,Connacht
+Gavin Thornbury,lock,28,2.04,117,22.23,Connacht
+Leva Fifita,lock,33,1.94,120,22.23,Connacht
+Niall Murray,lock,22,2.01,111,22.23,Connacht
+Oisin Dowling,lock,25,1.96,109,22.23,Connacht
+Cian Prendergast,back row,22,1.96,112,22.23,Connacht
+Ciaran Booth,back row,22,1.88,104,22.23,Connacht
+Conor Oliver,back row,27,1.83,102,22.23,Connacht
+Jarrad Butler,back row,31,1.86,106,22.23,Connacht
+Josh Murphy,back row,27,1.98,110,22.23,Connacht
+Oisin Mccormack,back row,21,1.83,100,22.23,Connacht
+Paul Boyle,back row,25,1.89,107,22.23,Connacht
+Seán Masterson,back row,24,1.9,105,22.23,Connacht
+Shamus Hurley-langton,back row,22,1.85,108,22.23,Connacht
+Caolin Blade,scrum-half,28,1.7,81,22.23,Connacht
+Colm Reilly,scrum-half,23,1.78,78,22.23,Connacht
+Kieran Marmion,scrum-half,30,1.8,85,22.23,Connacht
+Cathal Forde,fly-half,20,1.88,95,22.23,Connacht
+Conor Fitzgerald,fly-half,25,1.84,91,22.23,Connacht
+Jack Carty,fly-half,30,1.81,92,22.23,Connacht
+Bundee Aki,center,32,1.8,102,22.23,Connacht
+David Hawkshaw,center,23,1.78,86,22.23,Connacht
+John Porch,center,28,1.85,99,22.23,Connacht
+Shane Jennings,center,21,1.91,96,22.23,Connacht
+Shayne Bolton,center,22,1.88,100,22.23,Connacht
+Tom Daly,center,29,1.93,107,22.23,Connacht
+Tom Farrell,center,29,1.9,107,22.23,Connacht
+Adam Byrne,winger,28,1.93,101,22.23,Connacht
+Alex Wootton,winger,28,1.88,100,22.23,Connacht
+Byron Ralston,winger,22,1.84,88,22.23,Connacht
+Diarmuid Kilgallen,winger,22,1.93,95,22.23,Connacht
+Mack Hansen,fullback,24,1.88,89,22.23,Connacht
+Oran Mcnulty,fullback,22,1.78,90,22.23,Connacht
+Tiernan O'halloran,fullback,31,1.88,96,22.23,Connacht
+Aki Seiuli,prop,29,1.84,118,22.23,Dragons
+Chris Coleman,prop,24,1.89,130,22.23,Dragons
+Josh Reynolds,prop,23,1.8,112,22.23,Dragons
+Leon Brown,prop,25,1.91,126,22.23,Dragons
+Lloyd Fairbrother,prop,30,1.75,123,22.23,Dragons
+Rhodri Jones,prop,30,1.91,120,22.23,Dragons
+Rob Evans,prop,30,1.86,118,22.23,Dragons
+Brad Roberts,hooker,26,1.75,108,22.23,Dragons
+Elliot Dee,hooker,28,1.86,106,22.23,Dragons
+Ellis Shipp,hooker,25,1.79,108,22.23,Dragons
+James Benjamin,hooker,28,1.83,100,22.23,Dragons
+Ben Carter,lock,21,1.98,117,22.23,Dragons
+George Nott,lock,26,1.98,114,22.23,Dragons
+Joe Davies,lock,26,1.97,130,22.23,Dragons
+Sean Lonsdale,lock,25,1.96,112,22.23,Dragons
+Will Rowlands,lock,31,2.03,123,22.23,Dragons
+Aaron Wainwright,back row,25,1.9,106,22.23,Dragons
+Ben Fry,back row,24,1.86,105,22.23,Dragons
+Harri Keddie,back row,26,1.88,110,22.23,Dragons
+Huw Taylor,back row,26,1.96,114,22.23,Dragons
+Lennon Greggains,back row,23,1.87,102,22.23,Dragons
+Ollie Griffiths,back row,27,1.85,104,22.23,Dragons
+Ross Moriarty,back row,28,1.88,103,22.23,Dragons
+Taine Basham,back row,22,1.83,96,22.23,Dragons
+Gonzalo Bertranou,scrum-half,28,1.74,77,22.23,Dragons
+Lewis Jones,scrum-half,29,1.75,81,22.23,Dragons
+Rhodri Williams,scrum-half,29,1.79,81,22.23,Dragons
+Angus O'brien,fly-half,28,1.8,89,22.23,Dragons
+JJ Hanrahan,fly-half,30,1.83,93,22.23,Dragons
+Sam Davies,fly-half,29,1.8,87,22.23,Dragons
+Will Reed,fly-half,20,1.76,80,22.23,Dragons
+Aneurin Owen,center,21,1.8,89,22.23,Dragons
+Cory Allen,center,29,1.93,102,22.23,Dragons
+Jack Dixon,center,27,1.88,105,22.23,Dragons
+Max Clark,center,27,1.9,100,22.23,Dragons
+Sio Tomkinson,center,26,1.83,95,22.23,Dragons
+Steff Hughes,center,28,1.8,91,22.23,Dragons
+Ashton Hewitt,winger,27,1.8,90,22.23,Dragons
+Jared Rosser,winger,24,1.83,99,22.23,Dragons
+Rio Dyer,winger,22,1.86,94,22.23,Dragons
+David Richards,fullback,23,1.82,93,22.23,Dragons
+Ioan Davies,fullback,22,1.83,84,22.23,Dragons
+Jordan Williams,fullback,29,1.73,81,22.23,Dragons
+Angus Williams,prop,28,1.8,117,22.23,Edinburgh
+Boan Venter,prop,25,1.87,124,22.23,Edinburgh
+Harrison Courtney,prop,25,1.84,110,22.23,Edinburgh
+Lee Roy atalifo,prop,34,1.8,134,22.23,Edinburgh
+Luan De bruin,prop,29,1.83,128,22.23,Edinburgh
+Nick Auterac,prop,29,1.83,120,22.23,Edinburgh
+Pierre Schoeman,prop,28,1.84,118,22.23,Edinburgh
+Wp Nel,prop,36,1.82,120,22.23,Edinburgh
+Adam Mcburney,hooker,26,1.83,103,22.23,Edinburgh
+Dave Cherry,hooker,31,1.83,107,22.23,Edinburgh
+Stuart Mcinally,hooker,32,1.9,110,22.23,Edinburgh
+Glen Young,lock,27,2.01,118,22.23,Edinburgh
+Grant Gilchrist,lock,32,2.02,120,22.23,Edinburgh
+Jamie Hodgson,lock,24,1.97,116,22.23,Edinburgh
+Marshall Sykes,lock,22,2,112,22.23,Edinburgh
+Mesulame Kunavula,lock,26,1.96,110,22.23,Edinburgh
+Pierce Phillips,lock,30,2.03,119,22.23,Edinburgh
+Ben Muncaster,back row,20,1.9,110,22.23,Edinburgh
+Connor Boyle,back row,22,1.83,91,22.23,Edinburgh
+Hamish Watson,back row,30,1.85,102,22.23,Edinburgh
+Jamie Ritchie,back row,26,1.93,109,22.23,Edinburgh
+Luke Crosbie,back row,25,1.98,110,22.23,Edinburgh
+Nick Haining,back row,32,1.93,115,22.23,Edinburgh
+Sam Skinner,back row,27,1.96,116,22.23,Edinburgh
+Viliame Mata,back row,30,1.96,116,22.23,Edinburgh
+Ben Vellacott,scrum-half,27,1.67,78,22.23,Edinburgh
+Charlie Shiel,scrum-half,24,1.78,83,22.23,Edinburgh
+Henry Pyrgos,scrum-half,33,1.78,83,22.23,Edinburgh
+Charlie Savala,fly-half,22,1.93,96,22.23,Edinburgh
+Jaco Van der walt,fly-half,28,1.82,92,22.23,Edinburgh
+James Lang,fly-half,27,1.83,95,22.23,Edinburgh
+Cameron Hutchison,center,24,1.83,99,22.23,Edinburgh
+Chris Dean,center,28,1.88,103,22.23,Edinburgh
+Mark Bennett,center,29,1.83,91,22.23,Edinburgh
+Matt Currie,center,21,1.91,95,22.23,Edinburgh
+Wes Goosen,center,26,1.8,92,22.23,Edinburgh
+Damien Hoyland,winger,28,1.78,91,22.23,Edinburgh
+Darcy Graham,winger,25,1.76,84,22.23,Edinburgh
+Emiliano Boffelli,winger,27,1.91,91,22.23,Edinburgh
+Freddie Owsley,winger,25,1.93,93,22.23,Edinburgh
+Jack Blain,winger,22,1.91,102,22.23,Edinburgh
+Blair Kinghorn,fullback,25,1.94,100,22.23,Edinburgh
+Henry Immelman,fullback,27,1.89,98,22.23,Edinburgh
+Allan Dell,prop,30,1.85,112,22.23,Glasgow Warriors
+Enrique Pieretto heiland,prop,27,1.87,122,22.23,Glasgow Warriors
+Jamie Bhatti,prop,29,1.85,120,22.23,Glasgow Warriors
+Lucio Sordoni,prop,24,1.9,123,22.23,Glasgow Warriors
+Murphy Walker,prop,22,1.85,110,22.23,Glasgow Warriors
+Nathan Mcbeth,prop,24,1.89,120,22.23,Glasgow Warriors
+Oli Kebble,prop,30,1.91,124,22.23,Glasgow Warriors
+Simon Berghan,prop,31,1.93,126,22.23,Glasgow Warriors
+Zander Fagerson,prop,26,1.88,126,22.23,Glasgow Warriors
+Angus Fraser,hooker,22,1.81,110,22.23,Glasgow Warriors
+Fraser Brown,hooker,33,1.82,113,22.23,Glasgow Warriors
+George Turner,hooker,30,1.81,106,22.23,Glasgow Warriors
+Gregor Hiddleston,hooker,20,1.87,120,22.23,Glasgow Warriors
+Johnny Matthews,hooker,29,1.83,110,22.23,Glasgow Warriors
+Alex Samuel,lock,19,2.07,115,22.23,Glasgow Warriors
+Gregor Brown,lock,21,1.96,109,22.23,Glasgow Warriors
+JP Du preez,lock,27,2.08,130,22.23,Glasgow Warriors
+Lewis Bean,lock,30,2.03,129,22.23,Glasgow Warriors
+Max Williamson,lock,20,2.01,120,22.23,Glasgow Warriors
+Richie Gray,lock,33,2.06,126,22.23,Glasgow Warriors
+Scott Cummings,lock,25,1.98,115,22.23,Glasgow Warriors
+Sintu Manjezi,lock,27,1.98,117,22.23,Glasgow Warriors
+Ally Miller,back row,26,1.93,112,22.23,Glasgow Warriors
+Jack Dempsey,back row,28,1.91,111,22.23,Glasgow Warriors
+Matt Fagerson,back row,24,1.87,110,22.23,Glasgow Warriors
+Rory Darge,back row,22,1.86,98,22.23,Glasgow Warriors
+Ryan Wilson,back row,33,1.93,106,22.23,Glasgow Warriors
+Sione Vailanu,back row,27,1.85,127,22.23,Glasgow Warriors
+Thomas Gordon,back row,25,1.81,100,22.23,Glasgow Warriors
+Ali Price,scrum-half,29,1.78,88,22.23,Glasgow Warriors
+Cam Jones,scrum-half,21,1.79,82,22.23,Glasgow Warriors
+George Horne,scrum-half,27,1.75,79,22.23,Glasgow Warriors
+Jamie Dobie,scrum-half,21,1.75,81,22.23,Glasgow Warriors
+Jordan Lenac,scrum-half,25,1.77,85,22.23,Glasgow Warriors
+Sean Kennedy,scrum-half,31,1.73,80,22.23,Glasgow Warriors
+Domingo Miotti,fly-half,26,1.88,93,22.23,Glasgow Warriors
+Duncan Weir,fly-half,31,1.76,91,22.23,Glasgow Warriors
+Joel Hodgson,fly-half,30,1.76,84,22.23,Glasgow Warriors
+Ross Thompson,fly-half,23,1.83,86,22.23,Glasgow Warriors
+Will Hunt,fly-half,24,1.88,90,22.23,Glasgow Warriors
+Huw Jones,center,28,1.86,102,22.23,Glasgow Warriors
+Kyle Steyn,center,28,1.87,102,22.23,Glasgow Warriors
+Sam Johnson,center,29,1.85,102,22.23,Glasgow Warriors
+Sione Tuipulotu,center,25,1.79,103,22.23,Glasgow Warriors
+Stafford Mcdowall,center,24,1.93,103,22.23,Glasgow Warriors
+Tom Jordan,center,24,1.89,95,22.23,Glasgow Warriors
+Sebastian Cancelliere,winger,29,1.85,90,22.23,Glasgow Warriors
+Walter Fifita,winger,25,1.95,118,22.23,Glasgow Warriors
+Cole Forbes,fullback,23,1.8,91,22.23,Glasgow Warriors
+Josh Mckay,fullback,25,1.83,95,22.23,Glasgow Warriors
+Ollie Smith,fullback,22,1.88,88,22.23,Glasgow Warriors
+Rufus Mclean,fullback,22,1.81,84,22.23,Glasgow Warriors
+Andrew Porter,prop,26,1.84,125,22.23,Leinster
+Cian Healy,prop,35,1.85,117,22.23,Leinster
+Ed Byrne,prop,29,1.8,114,22.23,Leinster
+Michael Alaalatoa,prop,31,1.91,130,22.23,Leinster
+Michael Milne,prop,22,1.83,115,22.23,Leinster
+Tadhg Furlong,prop,29,1.83,125,22.23,Leinster
+Tom Clarkson,prop,22,1.85,118,22.23,Leinster
+Vakh Abdaladze,prop,26,1.88,121,22.23,Leinster
+Dan Sheehan,hooker,24,1.91,111,22.23,Leinster
+James Tracy,hooker,31,1.84,107,22.23,Leinster
+Ronan Kelleher,hooker,24,1.85,106,22.23,Leinster
+Brian Deeny,lock,22,2.01,112,22.23,Leinster
+Charlie Ryan,lock,23,2.03,115,22.23,Leinster
+James Ryan,lock,26,2.03,116,22.23,Leinster
+Jason Jenkins,lock,26,2.03,125,22.23,Leinster
+Joe Mccarthy,lock,21,1.98,119,22.23,Leinster
+Ross Molony,lock,28,1.98,113,22.23,Leinster
+Ryan Baird,lock,23,1.98,113,22.23,Leinster
+Caelan Doris,back row,24,1.93,107,22.23,Leinster
+Jack Conan,back row,30,1.93,114,22.23,Leinster
+Josh Van der flier,back row,29,1.83,105,22.23,Leinster
+Martin Moloney,back row,21,1.85,102,22.23,Leinster
+Max Deegan,back row,26,1.93,110,22.23,Leinster
+Rhys Ruddock,back row,31,1.91,113,22.23,Leinster
+Scott Penny,back row,23,1.85,104,22.23,Leinster
+Will Connors,back row,26,1.96,105,22.23,Leinster
+Cormac Foley,scrum-half,22,1.8,88,22.23,Leinster
+Jamison Gibson-park,scrum-half,30,1.76,83,22.23,Leinster
+Luke Mcgrath,scrum-half,29,1.75,84,22.23,Leinster
+Nick Mccarthy,scrum-half,27,1.8,84,22.23,Leinster
+Ciaran Frawley,fly-half,24,1.91,98,22.23,Leinster
+Harry Byrne,fly-half,23,1.91,95,22.23,Leinster
+Johnny Sexton,fly-half,37,1.88,92,22.23,Leinster
+Ross Byrne,fly-half,27,1.93,95,22.23,Leinster
+Charlie Ngatai,center,32,1.88,104,22.23,Leinster
+Garry Ringrose,center,27,1.91,96,22.23,Leinster
+Jimmy O'brien,center,25,1.83,90,22.23,Leinster
+Robbie Henshaw,center,29,1.91,103,22.23,Leinster
+Tommy O'brien,center,24,1.83,95,22.23,Leinster
+Dave Kearney,winger,33,1.8,91,22.23,Leinster
+James Lowe,winger,30,1.88,105,22.23,Leinster
+Jordan Larmour,winger,25,1.78,91,22.23,Leinster
+Liam Turner,winger,23,1.83,105,22.23,Leinster
+Hugo Keenan,fullback,26,1.85,92,22.23,Leinster
+Jamie Osborne,fullback,20,1.93,97,22.23,Leinster
+Dave Kilcoyne,prop,33,1.85,118,22.23,Munster
+James French,prop,23,1.85,121,22.23,Munster
+Jeremy Loughman,prop,27,1.85,120,22.23,Munster
+Josh Wycherley,prop,23,1.83,108,22.23,Munster
+Keynan Knox,prop,23,1.85,115,22.23,Munster
+Liam O'connor,prop,27,1.8,110,22.23,Munster
+Roman Salanoa,prop,24,1.83,123,22.23,Munster
+Stephen Archer,prop,34,1.88,121,22.23,Munster
+Chris Moore,hooker,22,1.85,110,22.23,Munster
+Diarmuid Barron,hooker,24,1.84,100,22.23,Munster
+Niall Scannell,hooker,30,1.85,111,22.23,Munster
+Scott Buckley,hooker,22,1.8,104,22.23,Munster
+Eoin O'connor,lock,22,2.01,108,22.23,Munster
+Fineen Wycherley,lock,24,1.96,112,22.23,Munster
+Jean Kleyn,lock,29,2.03,121,22.23,Munster
+Paddy Kelly,lock,22,2.01,111,22.23,Munster
+RG Snyman,lock,27,2.06,120,22.23,Munster
+Tadhg Beirne,lock,30,1.98,114,22.23,Munster
+Thomas Ahern,lock,22,2.06,117,22.23,Munster
+Alex Kendellen,back row,21,1.88,105,22.23,Munster
+Gavin Coombes,back row,24,1.98,110,22.23,Munster
+Jack Daly,back row,24,1.83,106,22.23,Munster
+Jack O'donoghue,back row,28,1.91,110,22.23,Munster
+Jack O'sullivan,back row,24,1.89,100,22.23,Munster
+John Hodnett,back row,23,1.85,105,22.23,Munster
+Peter O'mahony,back row,33,1.91,108,22.23,Munster
+Conor Murray,scrum-half,33,1.88,94,22.23,Munster
+Craig Casey,scrum-half,23,1.65,76,22.23,Munster
+Neil Cronin,scrum-half,29,1.73,83,22.23,Munster
+Paddy Patterson,scrum-half,23,1.75,75,22.23,Munster
+Ben Healy,fly-half,23,1.91,97,22.23,Munster
+Jack Crowley,fly-half,22,1.83,90,22.23,Munster
+Joey Carbery,fly-half,26,1.83,86,22.23,Munster
+Antoine Frisch,center,26,1.88,99,22.23,Munster
+Chris Farrell,center,29,1.91,110,22.23,Munster
+Dan Goggin,center,27,1.88,97,22.23,Munster
+Malakai Fekitoa,center,30,1.87,100,22.23,Munster
+Rory Scannell,center,28,1.79,96,22.23,Munster
+Shane Daly,center,25,1.91,92,22.23,Munster
+Andrew Conway,winger,31,1.8,91,22.23,Munster
+Calvin Nash,winger,25,1.8,90,22.23,Munster
+Keith Earls,winger,35,1.8,90,22.23,Munster
+Liam Coombes,winger,25,1.91,90,22.23,Munster
+Simon Zebo,winger,32,1.88,94,22.23,Munster
+Mike Haley,fullback,28,1.91,94,22.23,Munster
+Ben Warren,prop,22,1.85,118,22.23,Ospreys
+Gareth Thomas,prop,29,1.88,118,22.23,Ospreys
+Garyn Phillips,prop,21,1.83,113,22.23,Ospreys
+Nicky Smith,prop,28,1.83,116,22.23,Ospreys
+Rhys Henry,prop,24,1.73,114,22.23,Ospreys
+Tom Botha,prop,32,1.79,110,22.23,Ospreys
+Tomas Francis,prop,30,1.86,135,22.23,Ospreys
+Dewi Lake,hooker,23,1.85,110,22.23,Ospreys
+Elvis Taione,hooker,39,1.8,112,22.23,Ospreys
+Sam Parry,hooker,30,1.86,114,22.23,Ospreys
+Scott Baldwin,hooker,34,1.9,114,22.23,Ospreys
+Adam Beard,lock,26,2.03,117,22.23,Ospreys
+Alun Wyn jones,lock,37,1.98,119,22.23,Ospreys
+Bradley Davies,lock,35,1.98,122,22.23,Ospreys
+Jack Regan,lock,25,1.99,114,22.23,Ospreys
+Rhys Davies,lock,23,1.97,116,22.23,Ospreys
+Will Griffiths,lock,23,1.93,106,22.23,Ospreys
+Dan Lydiate,back row,34,1.94,115,22.23,Ospreys
+Ethan Roots,back row,24,1.88,110,22.23,Ospreys
+Jac Morgan,back row,22,1.8,102,22.23,Ospreys
+Justin Tipuric,back row,33,1.88,107,22.23,Ospreys
+Morgan Morris,back row,24,1.83,102,22.23,Ospreys
+Sam Cross,back row,30,1.9,100,22.23,Ospreys
+Sam Moore,back row,24,1.98,110,22.23,Ospreys
+Will Hickey,back row,20,1.91,103,22.23,Ospreys
+Harri Morgan,scrum-half,22,1.77,84,22.23,Ospreys
+Matthew Aubrey,scrum-half,25,1.68,85,22.23,Ospreys
+Reuben Morgan-williams,scrum-half,24,1.8,85,22.23,Ospreys
+Rhys Webb,scrum-half,33,1.83,93,22.23,Ospreys
+Cai Evans,fly-half,23,1.85,84,22.23,Ospreys
+Gareth Anscombe,fly-half,31,1.83,90,22.23,Ospreys
+Jack Walsh,fly-half,23,1.84,88,22.23,Ospreys
+Stephen Myler,fly-half,38,1.8,95,22.23,Ospreys
+Joe Hawkins,center,20,1.83,99,22.23,Ospreys
+Kieran Williams,center,25,1.78,79,22.23,Ospreys
+Mike Collins,center,29,1.86,99,22.23,Ospreys
+Osian Knott,center,22,1.88,103,22.23,Ospreys
+Owen Watkin,center,25,1.88,112,22.23,Ospreys
+Tiaan Thomas-wheeler,center,22,1.91,100,22.23,Ospreys
+Alex Cuthbert,winger,32,1.98,106,22.23,Ospreys
+George North,winger,30,1.94,109,22.23,Ospreys
+Keelan Giles,winger,24,1.73,80,22.23,Ospreys
+Luke Morgan,winger,30,1.75,81,22.23,Ospreys
+Daniel Evans,fullback,33,1.83,93,22.23,Ospreys
+Mat Protheroe,fullback,26,1.81,81,22.23,Ospreys
+Max Nagy,fullback,26,1.93,95,22.23,Ospreys
+Alex Jeffries,prop,27,1.93,127,22.23,Scarlets
+Javan Sebastian,prop,28,1.77,123,22.23,Scarlets
+Kemsley Mathias,prop,23,1.85,121,22.23,Scarlets
+Phil Price,prop,33,1.85,115,22.23,Scarlets
+Samson Lee,prop,29,1.8,115,22.23,Scarlets
+Steff Thomas,prop,25,1.83,122,22.23,Scarlets
+Willgriff John,prop,29,1.91,127,22.23,Scarlets
+Wyn Jones,prop,30,1.84,114,22.23,Scarlets
+Dafydd Hughes,hooker,26,1.79,103,22.23,Scarlets
+Ken Owens,hooker,35,1.85,109,22.23,Scarlets
+Ryan Elias,hooker,27,1.87,110,22.23,Scarlets
+Shaun Evans,hooker,26,1.83,103,22.23,Scarlets
+Taylor Davies,hooker,27,1.84,108,22.23,Scarlets
+Griff Evans,lock,,1.98,110,22.23,Scarlets
+Jac Price,lock,22,1.98,114,22.23,Scarlets
+Josh Helps,lock,27,1.97,115,22.23,Scarlets
+Lewis Rawlins,lock,32,1.99,117,22.23,Scarlets
+Morgan Jones,lock,23,2,112,22.23,Scarlets
+Sam Lousi,lock,31,1.99,122,22.23,Scarlets
+Tom Price,lock,29,2.03,117,22.23,Scarlets
+Aaron Shingler,back row,35,1.97,110,22.23,Scarlets
+Blade Thomson,back row,31,1.98,110,22.23,Scarlets
+Carwyn Tuipulotu,back row,21,1.88,125,22.23,Scarlets
+Dan Davis,back row,24,1.82,101,22.23,Scarlets
+Iestyn Rees,back row,23,1.89,110,22.23,Scarlets
+Iwan Shenton,back row,22,1.93,106,22.23,Scarlets
+Josh Macleod,back row,25,1.89,110,22.23,Scarlets
+Sione Kalamafoni,back row,34,1.96,120,22.23,Scarlets
+Tomás Lezana,back row,28,1.88,104,22.23,Scarlets
+Vaea Fifita,back row,30,1.96,111,22.23,Scarlets
+Dane Blacker,scrum-half,24,1.78,78,22.23,Scarlets
+Gareth Davies,scrum-half,32,1.78,88,22.23,Scarlets
+Kieran Hardy,scrum-half,26,1.84,88,22.23,Scarlets
+Dan Jones,fly-half,26,1.83,88,22.23,Scarlets
+Rhys Patchell,fly-half,29,1.9,94,22.23,Scarlets
+Sam Costelow,fly-half,21,1.75,83,22.23,Scarlets
+Ioan Nicholas,center,24,1.82,92,22.23,Scarlets
+Joe Roberts,center,22,1.82,96,22.23,Scarlets
+Johnny Williams,center,25,1.91,105,22.23,Scarlets
+Jonathan Davies,center,34,1.86,104,22.23,Scarlets
+Scott Williams,center,32,1.87,100,22.23,Scarlets
+Corey Baldwin,winger,23,1.83,99,22.23,Scarlets
+Johnny Mcnicholl,winger,32,1.87,96,22.23,Scarlets
+Ryan Conbeer,winger,23,1.77,91,22.23,Scarlets
+Steff Evans,winger,28,1.82,95,22.23,Scarlets
+Tom Rogers,winger,23,1.85,87,22.23,Scarlets
+Leigh Halfpenny,fullback,33,1.78,85,22.23,Scarlets
+Andy Warwick,prop,31,1.78,116,22.23,Ulster
+Callum Reid,prop,23,1.83,118,22.23,Ulster
+Eric O'sullivan,prop,26,1.86,118,22.23,Ulster
+Gareth Milasinovich,prop,26,1.91,134,22.23,Ulster
+Jeffery Toomaga-allen,prop,31,1.92,125,22.23,Ulster
+Marty Moore,prop,31,1.8,126,22.23,Ulster
+Tom O'toole,prop,24,1.85,124,22.23,Ulster
+Declan Moore,hooker,26,1.84,112,22.23,Ulster
+John Andrew,hooker,29,1.8,103,22.23,Ulster
+Rob Herring,hooker,32,1.85,106,22.23,Ulster
+Tom Stewart,hooker,21,1.85,100,22.23,Ulster
+Alan O'connor,lock,30,1.97,113,22.23,Ulster
+Cormac Izuchukwu,lock,22,2.01,114,22.23,Ulster
+Frank Bradshaw,lock,27,2.05,119,22.23,Ulster
+Iain Henderson,lock,30,1.98,116,22.23,Ulster
+Kieran Treadwell,lock,26,1.99,117,22.23,Ulster
+Sam Carter,lock,33,2.01,116,22.23,Ulster
+David Mccann,back row,22,1.93,108,22.23,Ulster
+Duane Vermeulen,back row,36,1.93,119,22.23,Ulster
+Greg Jones,back row,26,1.96,108,22.23,Ulster
+Jordi Murphy,back row,31,1.88,106,22.23,Ulster
+Marcus Rea,back row,25,1.89,109,22.23,Ulster
+Matty Rea,back row,29,1.93,113,22.23,Ulster
+Nick Timoney,back row,27,1.88,114,22.23,Ulster
+Sean Reffell,back row,24,1.8,95,22.23,Ulster
+Dave Shanahan,scrum-half,29,1.76,80,22.23,Ulster
+John Cooney,scrum-half,32,1.78,87,22.23,Ulster
+Michael Mcdonald,scrum-half,23,1.78,85,22.23,Ulster
+Nathan Doak,scrum-half,20,1.85,87,22.23,Ulster
+Angus Curtis,fly-half,24,1.78,93,22.23,Ulster
+Billy Burns,fly-half,28,1.83,87,22.23,Ulster
+Ian Madigan,fly-half,33,1.81,91,22.23,Ulster
+Mike Lowry,fly-half,24,1.71,80,22.23,Ulster
+Aaron Sexton,center,22,1.88,94,22.23,Ulster
+Ben Moxham,center,21,1.91,97,22.23,Ulster
+Jacob Stockdale,center,26,1.91,103,22.23,Ulster
+James Hume,center,24,1.88,98,22.23,Ulster
+Luke Marshall,center,31,1.8,99,22.23,Ulster
+Stewart Moore,center,23,1.83,91,22.23,Ulster
+Stuart Mccloskey,center,30,1.93,111,22.23,Ulster
+Will Addison,center,30,1.85,95,22.23,Ulster
+Craig Gilroy,winger,31,1.83,93,22.23,Ulster
+Rob Lyttle,winger,25,1.75,85,22.23,Ulster
+Robert Baloucoune,winger,25,1.94,99,22.23,Ulster
+Ethan Mcilroy,fullback,22,1.88,86,22.23,Ulster
+Jake Flannery,fullback,23,1.83,91,22.23,Ulster
